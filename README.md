@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olha meu perfil aí 💙
 
-<!--
-**bAartel/bAartel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João
 
-Here are some ideas to get you started:
+ - Estou estudando na [ Alura ] (https://wwww.alura.com.br)
+ - Estou de desenvolvendo na linguaguem de JavaScript
+ - Utilizo esse espaço para a minha organização e compatilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 📫
+
+00001107792332sp@aluno.educacao.sp.gov.br
+@JoãoBartel
+
+![](https://media1.tenor.com/m/C4u_Q9VzxRkAAAAC/marvel-future-fight-doctor-doom.gif)
